@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Vitor Hugo Ferreira and i'm a Front-end Developer.<br><br>🔭 I’m currently working on React JS (studying since 08/22)<br>👯 I’m looking to collaborate on Front-end Open Source Projects<br>🌱 I’m currently learning React JS | Typescript | Next JS
+Hi! My name is Vitor Hugo Ferreira and i'm a Front-end Developer.<br><br>🔭 I’m currently working on React JS and Next JS personal projects to get my first development job (studying since 08/22)<br>👯 I’m looking to collaborate on Front-end Open Source Projects<br>🌱 I’m currently learning React JS | Typescript | Next JS
 
 
 ## 🌐 Socials:
